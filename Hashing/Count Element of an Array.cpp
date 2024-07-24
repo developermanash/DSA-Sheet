@@ -1,3 +1,4 @@
+//count the number of elements in an array by  using hashing.
 #include <bits/stdc++.h>
 using namespace std;
 
